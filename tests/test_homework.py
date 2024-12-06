@@ -35,3 +35,4 @@ def test_01():
 
     if not os.path.exists("files/network.png"):
         raise FileNotFoundError("File 'files/network.pmg' not found")
+    

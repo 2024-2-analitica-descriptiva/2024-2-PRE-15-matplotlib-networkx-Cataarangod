@@ -161,3 +161,8 @@ def make_plot(n_countries):
 
 if __name__ == "__main__":
     make_plot(n_countries=20)
+
+
+    
+    
+    
